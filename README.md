@@ -2,6 +2,7 @@
 
 [![RB's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/qeifar)
     ![Rafieq's github stats](https://github-readme-stats.vercel.app/api?username=qeifar)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qeifar)](https://github.com/qeifar/github-readme-stats)
 <!--
 **qeifar/qeifar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
