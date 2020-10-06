@@ -2,7 +2,7 @@
 ![RB's github stats](https://github-readme-stats.vercel.app/api?username=qeifar)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qeifar)](https://github.com/qeifar/github-readme-stats)
 
 # Area of Interest
-#### MVC Architecture            Digital Analytic and Machine Learning        Agile Project Management
+#### 👯MVC Architecture (.NET and LAMP Stack)           👯Data Engineering and AI        👯Agile Project Management
 
 # Education
 
