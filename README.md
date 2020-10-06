@@ -9,26 +9,13 @@
 # Education
 
 # List of my Portfolios
-
-Accenture Newspage
->Focus on reporting modules for Newspage product platform.
-
-PLANETMAHIR.COM
->Malaysia local platform for Udemy alternative
-
-Sistem Perdagangan Pengedaran Produk Petroleum Negara(DATAPETROL)
->http://datapetrol.kpdnkk.gov.my
->National Oil and Gas data management and visualization project under Ministry of Domestic Trade, Co operatives and Consumerism
-
-System Upgrade for Koperasi Islah Malaysia Berhad
->http://kimbv2.vcari.net
->Enhancement from old system to newer and better.GWT turned to Laravel, and including some additions of modules.
-
-Sistem Aplikasi Penguatkuasaan Lembaga Getah Malaysia (Eforce LGM)
->https://ilgmforce.lgm.gov.my/eforceweb
->Enforcement management system under Malaysian Rubber Board
-
-Continue at  <a href="https://github.com/qeifar/myportfolio"><img src="https://i.pinimg.com/originals/2e/df/c4/2edfc4bdcb9b1cf702ddd7b78e2bf24e.png" alt="RB's DEV Profile" height="30" width="30"></a>
+### ✨Accenture Newspage  
+### ✨PLANETMAHIR.COM
+### ✨National Oil and Gas Data Management(DATAPETROL)
+### ✨System Upgrade for Koperasi Islah Malaysia Berhad
+### ✨Enforcement Management System under Malaysian Rubber Board (Eforce LGM)
+### ✨System Upgrade for Koperasi Islah Malaysia Berhad
+*Continue read my full portfolio at*  <a href="https://github.com/qeifar/myportfolio"><img src="https://i.pinimg.com/originals/2e/df/c4/2edfc4bdcb9b1cf702ddd7b78e2bf24e.png" alt="RB's DEV Profile" height="30" width="30"></a>
 
 
 <!--
