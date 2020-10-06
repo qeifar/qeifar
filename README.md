@@ -1,8 +1,7 @@
-### Hi there 👋
-
-<a href="https://dev.to/qeifar">
-  <i class="fab fa-dev" title="qeifar's DEV Profile"></i>
+### Hi there 👋 See you at <a href="https://dev.to/qeifar">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="RB's DEV Profile" height="30" width="30">
 </a>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qeifar)](https://github.com/qeifar/github-readme-stats)
 ![RB's github stats](https://github-readme-stats.vercel.app/api?username=qeifar)
@@ -12,7 +11,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Data Sc
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
