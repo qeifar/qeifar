@@ -1,7 +1,15 @@
 ### Hi there 👋
+<a href="https://dev.to/qeifar">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="RB's DEV Profile" height="30" width="30">
+</a>
+<a href="https://dev.to/qeifar">
+  <i class="fab fa-dev" title="qeifar's DEV Profile"></i>
+</a>
 
-    ![Rafieq's github stats](https://github-readme-stats.vercel.app/api?username=qeifar)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qeifar)](https://github.com/qeifar/github-readme-stats)
+
+
+    [![Rafieq's github stats](https://github-readme-stats.vercel.app/api?username=qeifar)]
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qeifar)](https://github.com/qeifar/github-readme-stats)
 <!--
 **qeifar/qeifar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
